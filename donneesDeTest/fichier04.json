@@ -1,0 +1,13 @@
+{
+  "nom": "Jeune sans genre pas en forme",
+  "assurance_collective": false,
+  "genre": 9,
+  "date_de_naissance": "2000-01-03",
+  "fumeur": {
+    "tabac": true,
+    "cannabis": false
+  },
+  "sports": [],
+  "alcool": false,
+  "antecedents": []
+}

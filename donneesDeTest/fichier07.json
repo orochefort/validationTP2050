@@ -1,0 +1,18 @@
+{
+  "nom": "Non eligible - Fume trop",
+  "assurance_collective": false,
+  "genre": 1,
+  "date_de_naissance": "1945-12-03",
+  "fumeur": {
+    "tabac": true,
+    "cannabis": true
+  },
+  "alcool": true,
+  "antecedents": [
+    {
+      "diagnostic": "Rhume des foins",
+      "depuis": "2018-09-05"
+    }
+  ],
+  "sports": []
+}

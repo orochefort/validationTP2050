@@ -1,0 +1,31 @@
+{
+  "nom": "Pire cas pour assurance collective",
+  "assurance_collective": true,
+  "genre": 1,
+  "date_de_naissance": "1945-12-03",
+  "fumeur": {
+    "tabac": true,
+    "cannabis": false
+  },
+  "alcool": true,
+  "antecedents": [
+    {
+      "diagnostic": "Colon irritable",
+      "depuis": "2010-10-04"
+    },
+    {
+      "diagnostic": "Rhume des foins",
+      "depuis": "2018-09-05"
+    },
+    {
+      "diagnostic": "Cancer du poumon",
+      "depuis": "2020-01-03"
+    }
+  ],
+  "sports": [],
+  "employeur": "Microsoft Inc.",
+  "numero_contrat": "H7000",
+  "date_embauche": "2020-07-11",
+  "part_employeur": 77,
+  "lieu_travail": "Daveluyville"
+}

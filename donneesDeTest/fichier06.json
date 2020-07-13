@@ -1,0 +1,15 @@
+{
+  "nom": "Femme, sans objet, buveuse et fumeuse",
+  "assurance_collective": false,
+  "genre": 9,
+  "date_de_naissance": "1958-01-03",
+  "fumeur": {
+    "tabac": false,
+    "cannabis": true
+  },
+  "alcool": true,
+  "antecedents": [],
+  "sports": [
+    "Marche"
+  ]
+}

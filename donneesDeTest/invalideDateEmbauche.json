@@ -1,0 +1,30 @@
+{
+  "nom": "Date d'embauche au mauvais format",
+  "genre": 1,
+  "date_de_naissance": "1956-12-03",
+  "assurance_collective": true,
+  "fumeur": {
+    "tabac": false,
+    "cannabis": false
+  },
+  "alcool": true,
+  "antecedents": [
+    {
+      "diagnostic": "Colon irritable",
+      "depuis": "2010-10-04"
+    },
+    {
+      "diagnostic": "COVID-19",
+      "depuis": "2020-01-03"
+    }
+  ],
+  "sports": [
+    "Arts martiaux",
+    "Baseball"
+  ],
+  "employeur": "Université du Québec à Montréal",
+  "numero_contrat": "A2219",
+  "date_embauche": "25-10-2017",
+  "part_employeur": 50,
+  "lieu_travail": "Montréal"
+}

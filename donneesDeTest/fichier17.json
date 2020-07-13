@@ -1,0 +1,18 @@
+{
+  "nom": "Non eligible - Travaille a Havre-Saint-Pierre",
+  "genre": 1,
+  "date_de_naissance": "1956-12-03",
+  "assurance_collective": true,
+  "fumeur": {
+    "tabac": false,
+    "cannabis": false
+  },
+  "alcool": true,
+  "antecedents": [],
+  "sports": [],
+  "employeur": "Université du Québec à Montréal",
+  "numero_contrat": "A2219",
+  "date_embauche": "2009-01-01",
+  "part_employeur": 50,
+  "lieu_travail": "Havre-Saint-Pierre"
+}

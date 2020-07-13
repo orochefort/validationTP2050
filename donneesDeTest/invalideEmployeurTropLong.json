@@ -1,0 +1,30 @@
+{
+  "nom": "Nom d'employeur > 50 caracteres",
+  "genre": 1,
+  "date_de_naissance": "1956-12-03",
+  "assurance_collective": true,
+  "fumeur": {
+    "tabac": false,
+    "cannabis": false
+  },
+  "alcool": true,
+  "antecedents": [
+    {
+      "diagnostic": "Colon irritable",
+      "depuis": "2010-10-04"
+    },
+    {
+      "diagnostic": "COVID-19",
+      "depuis": "2020-01-03"
+    }
+  ],
+  "sports": [
+    "Arts martiaux",
+    "Baseball"
+  ],
+  "employeur": "ABC 01234567890123456789012345678901234567890123456789",
+  "numero_contrat": "A2219",
+  "date_embauche": "2009-01-01",
+  "part_employeur": 50,
+  "lieu_travail": "Montréal"
+}

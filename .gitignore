@@ -1,0 +1,33 @@
+# Mon dossier pour les librairies json-lib
+lib/
+
+# Fichiers et dossiers de IntelliJ
+.idea/
+out/
+*.iml
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package files
+*.jar
+*.war
+*.nar
+*.ear
+*.tar.gz
+*.rar
+
+# PDF files
+*.pdf
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*

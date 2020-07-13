@@ -1,0 +1,30 @@
+{
+  "nom": "Code numerique invalide pour le genre",
+  "genre": 5,
+  "date_de_naissance": "1956-12-03",
+  "assurance_collective": true,
+  "fumeur": {
+    "tabac": false,
+    "cannabis": false
+  },
+  "alcool": true,
+  "antecedents": [
+    {
+      "diagnostic": "Colon irritable",
+      "depuis": "2010-10-04"
+    },
+    {
+      "diagnostic": "COVID-19",
+      "depuis": "2020-01-03"
+    }
+  ],
+  "sports": [
+    "Arts martiaux",
+    "Baseball"
+  ],
+  "employeur": "Université du Québec à Montréal",
+  "numero_contrat": "R7000",
+  "date_embauche": "2009-01-01",
+  "part_employeur": 100,
+  "lieu_travail": "Montréal"
+}

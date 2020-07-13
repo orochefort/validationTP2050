@@ -1,0 +1,30 @@
+{
+  "nom": "La portion 'lettre' du numero de contrat est invalide",
+  "genre": 1,
+  "date_de_naissance": "1956-12-03",
+  "assurance_collective": true,
+  "fumeur": {
+    "tabac": false,
+    "cannabis": false
+  },
+  "alcool": true,
+  "antecedents": [
+    {
+      "diagnostic": "Colon irritable",
+      "depuis": "2010-10-04"
+    },
+    {
+      "diagnostic": "COVID-19",
+      "depuis": "2020-01-03"
+    }
+  ],
+  "sports": [
+    "Arts martiaux",
+    "Baseball"
+  ],
+  "employeur": "Université du Québec à Montréal",
+  "numero_contrat": "B2219",
+  "date_embauche": "2009-01-01",
+  "part_employeur": 50,
+  "lieu_travail": "Montréal"
+}
