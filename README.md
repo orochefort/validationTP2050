@@ -4,6 +4,8 @@ Cet outil permet de valider le bon fonctionnement de votre TP en appelant votre 
 une série de fichiers JSON d'entrée. Vous n'avez rien à programmer; vous indiquez seulement où se
 trouve le dossier contenant vos fichiers JSON d'entrée de test. L'outil se charge du reste.
 
+![](images/exemple-execution-tests.jpg)
+
 ## Mise en place de l'outil
 
 1. L'outil est un "TestFactory" JUnit 5. Vous devez donc simplement copier/ajouter le fichier
@@ -42,4 +44,4 @@ L'outil choisira entre deux types de vérification :
 
 1. Si le fichier d'entrée est accompagné d'un fichier "résultat attendu", le test assume que votre programme créera un fichier de sortie JSON et ce dernier sera comparé au fichier "résultat attendu". En cas de différence entre les contenus, celle-ci sera indiquée avec le test.
 
-2. Si le fichier d'entrée n'est pas accompagné d'un fichier "résultat attendu", le test unitaire assume qu'une exception sera levée dans votre programme suite à la lecture du fichier d'entrée. Le test assume donc que votre programme ne produira pas de fichier de sortie et qu'il affichera un message d'erreur à la console. Ce message sera affiché avec le test réussi.
+2. Si le fichier d'entrée n'est pas accompagné d'un fichier "résultat attendu", le test unitaire assume qu'une exception sera levée dans votre programme suite à la lecture du fichier d'entrée. Le test assume donc que votre programme ne produira pas de fichier de sortie et qu'il affichera un message d'erreur à la console. Vous pourrez voir ce message si vous cliquez sur le nom du test dans IntelliJ. Cela permet de valider que le message est vraiment en rapport avec l'échec "programmé" dans le fichier d'entrée.
